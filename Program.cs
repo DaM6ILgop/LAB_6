@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 
 
-namespace тренировка_или_самообман_
+namespace Задание_2
 {
     class Program
     {
